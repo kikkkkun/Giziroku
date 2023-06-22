@@ -1,2 +1,3 @@
 # Giziroku
-ChatGPTとWhisperAIで議事録を作成
+ChatGPTとWhisperAIで議事録を作成します。
+議事録.ipynbファイルをダウンロードして、GoogleColaboratoryにアップしてご使用ください。
